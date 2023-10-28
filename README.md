@@ -11,10 +11,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
   
   ##
