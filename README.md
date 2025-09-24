@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Thais Diniz 👋
 
 - 🔭 Trabalho com Análise de Dados
-- 🌱 Estou estudando Gestão da Tecnologia da Informação e Análise e Desenvolvimento de Sistemas
+- 🎓 Formada em Gestão da Tecnologia da Informação
 - 😄 Pronomes: ela/dela
 
 <div align="center">
